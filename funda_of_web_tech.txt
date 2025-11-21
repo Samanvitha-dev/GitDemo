@@ -17,4 +17,8 @@ mandatory commands
 >>git status
 >> git add .
 >> git status
->>git commit m "Commit Message"
+>>git commit -m "Commit Message"
+>>git push
+
+--seperate branch : day1Branch
+>>git checkout -b "day1Branch" (to create a new brach other than masterand main)
